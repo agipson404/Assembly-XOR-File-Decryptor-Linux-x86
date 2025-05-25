@@ -1,7 +1,7 @@
 # 🔐 Assembly XOR File Decryptor (Linux, x86)
 **Created By:** Arthur Gipson  
-📺 **YouTube Video:** [https://youtu.be/Ksyxgg80ALA](https://youtu.be/Ksyxgg80ALA)
 Enivornment: Kali Linux Virtual Machine
+📺 **YouTube Video:** [https://youtu.be/Ksyxgg80ALA](https://youtu.be/Ksyxgg80ALA)
 
 This project is a simple, educational decryptor written entirely in **x86 Assembly**, designed to reverse XOR-encrypted files using raw **Linux system calls**.
 
